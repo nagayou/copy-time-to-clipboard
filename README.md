@@ -1,1 +1,1 @@
-# copy-time-to-clipboard
+# Copy time to clipboard
