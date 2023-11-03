@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "time-copy"
+version = "0.1.0"
+description = ""
+authors = ["nagayou <email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyperclip = "^1.8.2"
+py2app = "^0.28.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
